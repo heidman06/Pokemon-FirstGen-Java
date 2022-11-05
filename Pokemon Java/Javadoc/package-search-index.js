@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"capacite"},{"l":"combat"},{"l":"creationcsv"},{"l":"dresseur"},{"l":"dresseurexpert"},{"l":"iaexpert"},{"l":"iaminmax"},{"l":"interfaces"},{"l":"main"},{"l":"modeDeJeu"},{"l":"pictures"},{"l":"pokedex"},{"l":"pokemon"},{"l":"stats"},{"l":"tour"},{"l":"type"}];updateSearchResults();
